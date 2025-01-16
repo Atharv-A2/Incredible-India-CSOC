@@ -1,24 +1,70 @@
-
 # Incredible India CSOC
 
-This project tells us about the contributions of athletes and sportsmen towards India by winning glorified medals at The COMMONWEALTH GAMES 2022.
+A tribute to India's athletes who brought glory at the Commonwealth Games 2022.
 
-On the occasion of the 75th Independence Day, we have collected information related to the above from the web and presented it to viewers in the best possible way. This project is completely based on HTML and CSS.
+---
 
-The sportsmen have shown their patriotism towards our country by winning the hearts of people at the Commonwealth Games. Their achievements have been possible due to their hard work and the support provided by various government Yojanas or plans. My next goal is to add that information to this website in a more presentable way.
+## Table of Contents
 
-I have used some YouTube references as instructed by my mentors.
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+
+---
+
+## About the Project
+
+This project showcases the achievements of Indian athletes at the Commonwealth Games 2022. It provides information about medal winners across various sports, celebrating their dedication and patriotism.
+
+Visit the live website here: [Incredible India CSOC](https://incredible-india-coding-owls.netlify.app/)
+
+---
 
 ## Features
-- Showcases athletes' achievements at the Commonwealth Games
-- Built with HTML and CSS
-- Highlights the role of government programs in sports development
 
-## Future Enhancements
-- Plan to include information on government initiatives (Yojanas) for athletes
+- **Athlete Highlights**: Profiles of medal-winning athletes.
+- **Sport Categories**: Medal counts organized by sport.
+- **Responsive Design**: Accessible across devices.
 
-## Live Demo
-Check out the live version of the website [here](https://atharv-a2.github.io/Incredible-India-CSOC/).
+---
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS
+
+---
 
 ## Installation
-No installation needed! Simply open `index.html` in your browser.
+
+To run this project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Atharv-A2/Incredible-India-CSOC.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Incredible-India-CSOC
+   ```
+3. **Open `index.html` in your browser**.
+
+---
+
+## Usage
+
+Explore the website to learn about India's achievements at the Commonwealth Games 2022. Navigate through different sports categories to see detailed information about each athlete and their accomplishments.
+
+---
+
+
+
+## Contact
+
+- **Atharv Agrawal** - [GitHub](https://github.com/Atharv-A2)
+- **Mehul Chandak** - [GitHub](https://github.com/MehulChandak)
+
+---
+
